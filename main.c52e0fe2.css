@@ -8,6 +8,7 @@ body{
     font-size: 30px;
     font-family:calibri;
     margin: 0;
+    overflow: hidden; /* Hide scrollbars */
 }
 button{
     background:#aaf;
