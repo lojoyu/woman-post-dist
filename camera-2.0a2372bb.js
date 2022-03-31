@@ -104793,42 +104793,46 @@ var global = arguments[3];
     }]
   }, {}, [248])(248);
 });
-},{}],"resources/videos/0318/00_START.mp4":[function(require,module,exports) {
-module.exports = "/00_START.2434a19c.mp4";
-},{}],"resources/videos/0318/00_START_2.mp4":[function(require,module,exports) {
-module.exports = "/00_START_2.ee9be8b3.mp4";
-},{}],"resources/videos/0318/11_STAR_0.mp4":[function(require,module,exports) {
-module.exports = "/11_STAR_0.f7b15eb4.mp4";
-},{}],"resources/videos/0318/11_STAR_1.mp4":[function(require,module,exports) {
-module.exports = "/11_STAR_1.433c369e.mp4";
-},{}],"resources/videos/0318/11_STAR_2.mp4":[function(require,module,exports) {
-module.exports = "/11_STAR_2.7bfd4ef7.mp4";
-},{}],"resources/videos/0318/11_STAR_3.mp4":[function(require,module,exports) {
-module.exports = "/11_STAR_3.c60b6a28.mp4";
-},{}],"resources/videos/0318/11_STAR_4.mp4":[function(require,module,exports) {
-module.exports = "/11_STAR_4.e157f016.mp4";
-},{}],"resources/videos/0318/11_STAR_5.mp4":[function(require,module,exports) {
-module.exports = "/11_STAR_5.446fb972.mp4";
-},{}],"resources/videos/0318/01.mp4":[function(require,module,exports) {
-module.exports = "/01.90060054.mp4";
-},{}],"resources/videos/0318/02.mp4":[function(require,module,exports) {
-module.exports = "/02.e655dce3.mp4";
-},{}],"resources/videos/0318/03.mp4":[function(require,module,exports) {
-module.exports = "/03.03d4f031.mp4";
-},{}],"resources/videos/0318/06.mp4":[function(require,module,exports) {
-module.exports = "/06.9ed1a1c3.mp4";
-},{}],"resources/videos/0318/05.mp4":[function(require,module,exports) {
-module.exports = "/05.8ea2fb26.mp4";
-},{}],"resources/videos/0318/12.mp4":[function(require,module,exports) {
-module.exports = "/12.5664703c.mp4";
-},{}],"resources/videos/0318/07.mp4":[function(require,module,exports) {
-module.exports = "/07.5f63a354.mp4";
-},{}],"resources/videos/0318/08.mp4":[function(require,module,exports) {
-module.exports = "/08.e6afcc22.mp4";
-},{}],"resources/videos/0318/11.mp4":[function(require,module,exports) {
-module.exports = "/11.ee352be2.mp4";
-},{}],"resources/videos/0318/10.mp4":[function(require,module,exports) {
-module.exports = "/10.1ca0e81f.mp4";
+},{}],"resources/videos/0331/00_START.mp4":[function(require,module,exports) {
+module.exports = "/00_START.791f561e.mp4";
+},{}],"resources/videos/0331/00_START_2.mp4":[function(require,module,exports) {
+module.exports = "/00_START_2.3f7b17ee.mp4";
+},{}],"resources/videos/0331/11_STAR_0.mp4":[function(require,module,exports) {
+module.exports = "/11_STAR_0.5eb1d429.mp4";
+},{}],"resources/videos/0331/11_STAR_1.mp4":[function(require,module,exports) {
+module.exports = "/11_STAR_1.cb12897b.mp4";
+},{}],"resources/videos/0331/11_STAR_2.mp4":[function(require,module,exports) {
+module.exports = "/11_STAR_2.0ad34168.mp4";
+},{}],"resources/videos/0331/11_STAR_3.mp4":[function(require,module,exports) {
+module.exports = "/11_STAR_3.959f907c.mp4";
+},{}],"resources/videos/0331/11_STAR_4.mp4":[function(require,module,exports) {
+module.exports = "/11_STAR_4.858f1f50.mp4";
+},{}],"resources/videos/0331/11_STAR_5.mp4":[function(require,module,exports) {
+module.exports = "/11_STAR_5.bf59dbb5.mp4";
+},{}],"resources/videos/0331/s01.mp4":[function(require,module,exports) {
+module.exports = "/s01.168ef24c.mp4";
+},{}],"resources/videos/0331/s02.mp4":[function(require,module,exports) {
+module.exports = "/s02.38b8b970.mp4";
+},{}],"resources/videos/0331/s03.mp4":[function(require,module,exports) {
+module.exports = "/s03.fcc7c283.mp4";
+},{}],"resources/videos/0331/s04.mp4":[function(require,module,exports) {
+module.exports = "/s04.4fe2de94.mp4";
+},{}],"resources/videos/0331/s05.mp4":[function(require,module,exports) {
+module.exports = "/s05.12d65175.mp4";
+},{}],"resources/videos/0331/s06.mp4":[function(require,module,exports) {
+module.exports = "/s06.6acef0a9.mp4";
+},{}],"resources/videos/0331/s07.mp4":[function(require,module,exports) {
+module.exports = "/s07.0ce2e77d.mp4";
+},{}],"resources/videos/0331/s08.mp4":[function(require,module,exports) {
+module.exports = "/s08.c1b4059c.mp4";
+},{}],"resources/videos/0331/s09.mp4":[function(require,module,exports) {
+module.exports = "/s09.03ccc5da.mp4";
+},{}],"resources/videos/0331/s10.mp4":[function(require,module,exports) {
+module.exports = "/s10.9a3e08a6.mp4";
+},{}],"resources/videos/0331/s11.mp4":[function(require,module,exports) {
+module.exports = "/s11.1b3b8a94.mp4";
+},{}],"resources/videos/0331/s12.mp4":[function(require,module,exports) {
+module.exports = "/s12.351d7473.mp4";
 },{}],"clips.js":[function(require,module,exports) {
 "use strict";
 
@@ -104849,49 +104853,53 @@ Object.defineProperty(exports, "start", {
   }
 });
 
-var _START = _interopRequireDefault(require("./resources/videos/0318/00_START.mp4"));
+var _START = _interopRequireDefault(require("./resources/videos/0331/00_START.mp4"));
 
-var _START_ = _interopRequireDefault(require("./resources/videos/0318/00_START_2.mp4"));
+var _START_ = _interopRequireDefault(require("./resources/videos/0331/00_START_2.mp4"));
 
-var _STAR_ = _interopRequireDefault(require("./resources/videos/0318/11_STAR_0.mp4"));
+var _STAR_ = _interopRequireDefault(require("./resources/videos/0331/11_STAR_0.mp4"));
 
-var _STAR_2 = _interopRequireDefault(require("./resources/videos/0318/11_STAR_1.mp4"));
+var _STAR_2 = _interopRequireDefault(require("./resources/videos/0331/11_STAR_1.mp4"));
 
-var _STAR_3 = _interopRequireDefault(require("./resources/videos/0318/11_STAR_2.mp4"));
+var _STAR_3 = _interopRequireDefault(require("./resources/videos/0331/11_STAR_2.mp4"));
 
-var _STAR_4 = _interopRequireDefault(require("./resources/videos/0318/11_STAR_3.mp4"));
+var _STAR_4 = _interopRequireDefault(require("./resources/videos/0331/11_STAR_3.mp4"));
 
-var _STAR_5 = _interopRequireDefault(require("./resources/videos/0318/11_STAR_4.mp4"));
+var _STAR_5 = _interopRequireDefault(require("./resources/videos/0331/11_STAR_4.mp4"));
 
-var _STAR_6 = _interopRequireDefault(require("./resources/videos/0318/11_STAR_5.mp4"));
+var _STAR_6 = _interopRequireDefault(require("./resources/videos/0331/11_STAR_5.mp4"));
 
-var _ = _interopRequireDefault(require("./resources/videos/0318/01.mp4"));
+var _s = _interopRequireDefault(require("./resources/videos/0331/s01.mp4"));
 
-var _2 = _interopRequireDefault(require("./resources/videos/0318/02.mp4"));
+var _s2 = _interopRequireDefault(require("./resources/videos/0331/s02.mp4"));
 
-var _3 = _interopRequireDefault(require("./resources/videos/0318/03.mp4"));
+var _s3 = _interopRequireDefault(require("./resources/videos/0331/s03.mp4"));
 
-var _4 = _interopRequireDefault(require("./resources/videos/0318/06.mp4"));
+var _s4 = _interopRequireDefault(require("./resources/videos/0331/s04.mp4"));
 
-var _5 = _interopRequireDefault(require("./resources/videos/0318/05.mp4"));
+var _s5 = _interopRequireDefault(require("./resources/videos/0331/s05.mp4"));
 
-var _6 = _interopRequireDefault(require("./resources/videos/0318/12.mp4"));
+var _s6 = _interopRequireDefault(require("./resources/videos/0331/s06.mp4"));
 
-var _7 = _interopRequireDefault(require("./resources/videos/0318/07.mp4"));
+var _s7 = _interopRequireDefault(require("./resources/videos/0331/s07.mp4"));
 
-var _8 = _interopRequireDefault(require("./resources/videos/0318/08.mp4"));
+var _s8 = _interopRequireDefault(require("./resources/videos/0331/s08.mp4"));
 
-var _9 = _interopRequireDefault(require("./resources/videos/0318/11.mp4"));
+var _s9 = _interopRequireDefault(require("./resources/videos/0331/s09.mp4"));
 
-var _10 = _interopRequireDefault(require("./resources/videos/0318/10.mp4"));
+var _s10 = _interopRequireDefault(require("./resources/videos/0331/s10.mp4"));
+
+var _s11 = _interopRequireDefault(require("./resources/videos/0331/s11.mp4"));
+
+var _s12 = _interopRequireDefault(require("./resources/videos/0331/s12.mp4"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var level = [_STAR_.default, _STAR_2.default, _STAR_3.default, _STAR_4.default, _STAR_5.default, _STAR_6.default];
 exports.level = level;
-var post = [_.default, _2.default, _3.default, _4.default, _5.default, _6.default, _7.default, _8.default, _9.default, _10.default];
+var post = [_s.default, _s2.default, _s3.default, _s4.default, _s5.default, _s6.default, _s7.default, _s8.default, _s9.default, _s10.default, _s11.default, _s12.default];
 exports.post = post;
-},{"./resources/videos/0318/00_START.mp4":"resources/videos/0318/00_START.mp4","./resources/videos/0318/00_START_2.mp4":"resources/videos/0318/00_START_2.mp4","./resources/videos/0318/11_STAR_0.mp4":"resources/videos/0318/11_STAR_0.mp4","./resources/videos/0318/11_STAR_1.mp4":"resources/videos/0318/11_STAR_1.mp4","./resources/videos/0318/11_STAR_2.mp4":"resources/videos/0318/11_STAR_2.mp4","./resources/videos/0318/11_STAR_3.mp4":"resources/videos/0318/11_STAR_3.mp4","./resources/videos/0318/11_STAR_4.mp4":"resources/videos/0318/11_STAR_4.mp4","./resources/videos/0318/11_STAR_5.mp4":"resources/videos/0318/11_STAR_5.mp4","./resources/videos/0318/01.mp4":"resources/videos/0318/01.mp4","./resources/videos/0318/02.mp4":"resources/videos/0318/02.mp4","./resources/videos/0318/03.mp4":"resources/videos/0318/03.mp4","./resources/videos/0318/06.mp4":"resources/videos/0318/06.mp4","./resources/videos/0318/05.mp4":"resources/videos/0318/05.mp4","./resources/videos/0318/12.mp4":"resources/videos/0318/12.mp4","./resources/videos/0318/07.mp4":"resources/videos/0318/07.mp4","./resources/videos/0318/08.mp4":"resources/videos/0318/08.mp4","./resources/videos/0318/11.mp4":"resources/videos/0318/11.mp4","./resources/videos/0318/10.mp4":"resources/videos/0318/10.mp4"}],"sketch.js":[function(require,module,exports) {
+},{"./resources/videos/0331/00_START.mp4":"resources/videos/0331/00_START.mp4","./resources/videos/0331/00_START_2.mp4":"resources/videos/0331/00_START_2.mp4","./resources/videos/0331/11_STAR_0.mp4":"resources/videos/0331/11_STAR_0.mp4","./resources/videos/0331/11_STAR_1.mp4":"resources/videos/0331/11_STAR_1.mp4","./resources/videos/0331/11_STAR_2.mp4":"resources/videos/0331/11_STAR_2.mp4","./resources/videos/0331/11_STAR_3.mp4":"resources/videos/0331/11_STAR_3.mp4","./resources/videos/0331/11_STAR_4.mp4":"resources/videos/0331/11_STAR_4.mp4","./resources/videos/0331/11_STAR_5.mp4":"resources/videos/0331/11_STAR_5.mp4","./resources/videos/0331/s01.mp4":"resources/videos/0331/s01.mp4","./resources/videos/0331/s02.mp4":"resources/videos/0331/s02.mp4","./resources/videos/0331/s03.mp4":"resources/videos/0331/s03.mp4","./resources/videos/0331/s04.mp4":"resources/videos/0331/s04.mp4","./resources/videos/0331/s05.mp4":"resources/videos/0331/s05.mp4","./resources/videos/0331/s06.mp4":"resources/videos/0331/s06.mp4","./resources/videos/0331/s07.mp4":"resources/videos/0331/s07.mp4","./resources/videos/0331/s08.mp4":"resources/videos/0331/s08.mp4","./resources/videos/0331/s09.mp4":"resources/videos/0331/s09.mp4","./resources/videos/0331/s10.mp4":"resources/videos/0331/s10.mp4","./resources/videos/0331/s11.mp4":"resources/videos/0331/s11.mp4","./resources/videos/0331/s12.mp4":"resources/videos/0331/s12.mp4"}],"sketch.js":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -104954,8 +104962,7 @@ var sketch = function sketch(p) {
       // start
       console.log("ya");
       changeVideo(start, count);
-    } else {
-      successPost();
+    } else {//successPost();
     }
   }; //video handler
 
@@ -105112,7 +105119,19 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.poseThres = void 0;
-var poseThres = [95, 105, 110, 110, 70, 70, 76, 75, 90, 110];
+var poseThres = [80, 90, 110, 110, 70, 70, 70, 80, 95, 110, 110, 110]; //TODO: score
+// export const poseThres = [ 95,
+//     105,
+//     110,
+//     110,
+//     70,
+//     70,
+//     76,
+//     75,
+//     90,
+//     110
+// ]
+
 exports.poseThres = poseThres;
 },{}],"camera-2.js":[function(require,module,exports) {
 "use strict";
@@ -105174,8 +105193,9 @@ function asyncGeneratorStep(gen, resolve, reject, _next, _throw, key, arg) { try
 
 function _asyncToGenerator(fn) { return function () { var self = this, args = arguments; return new Promise(function (resolve, reject) { var gen = fn.apply(self, args); function _next(value) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "next", value); } function _throw(err) { asyncGeneratorStep(gen, resolve, reject, _next, _throw, "throw", err); } _next(undefined); }); }; }
 
-var showGUI = false;
-var debug = false;
+var showGUI = false; //TODO: debug
+
+var debug = true;
 var pscore = 0.5; // Camera stream video element
 
 var video;
@@ -105185,7 +105205,8 @@ var videoHeight = 300; // Canvas
 var faceDetection = null;
 var illustration = null;
 var canvasScope;
-var canvasWidth = 400;
+var canvasWidth = 400; //TODO: avatar size
+
 var canvasHeight = 400; // ML models
 
 var facemesh;
@@ -105603,7 +105624,7 @@ function _initPose() {
             i = 0;
 
           case 1:
-            if (!(i < 10)) {
+            if (!(i < 12)) {
               _context6.next = 12;
               break;
             }
@@ -105655,8 +105676,9 @@ function comparePosea(p) {
 }
 
 function comparePose(p) {
-  var now = _sketch.postInd[_sketch.currentG]; //let now = 9;
-
+  //TODO: Debug
+  // let now = postInd[currentG];
+  var now = 9;
   if (poseElt.length <= now) return;
 
   if (p.score < pscore) {
@@ -105667,7 +105689,7 @@ function comparePose(p) {
   var weightedDistance = 1000 * (0, _posenetSimilarity.poseSimilarity)(p, poseElt[now]);
 
   if (weightedDistance < _poserelate.poseThres[now]) {
-    (0, _sketch.successPost)();
+    if (!debug) (0, _sketch.successPost)();
     console.log("success!");
   }
 
